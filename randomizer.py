@@ -45,25 +45,3 @@ for key in list_users:
 	else:
 		list_users.remove(key)
 print 'Quantity users: ' + str(len(list_users))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
