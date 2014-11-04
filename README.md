@@ -16,6 +16,6 @@ Take winner in vk.com competition by repost`s
 id_community = -77885032 #Id community
 id_post = 9 #Id post in wall
 h_rep = 41 #Quantity repost's```
-`
+
 
 
