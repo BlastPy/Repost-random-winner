@@ -8,9 +8,9 @@ s = vkapi.access_token
 print 'Starting'
 print 'Atention ! Check if the user is in community.'
 time.sleep(1)
-id_community = -77885032 #Id community
-id_post = 9 #Id post in wall
-h_rep = 41 #Quantity repost`s
+id_community = -100 #Id community
+id_post = 1 #Id post in wall
+h_rep = 1 #Quantity repost`s
 list_users = [] 
 a = 0
 for a in range(0,h_rep):
